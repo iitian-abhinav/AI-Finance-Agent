@@ -1,0 +1,7 @@
+agno>=2.6.0
+groq
+streamlit
+python-dotenv
+yfinance
+matplotlib
+sqlalchemy
