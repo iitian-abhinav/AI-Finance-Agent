@@ -4,4 +4,8 @@ streamlit
 python-dotenv
 yfinance
 matplotlib
+numpy
+requests
+beautifulsoup4
+lxml
 sqlalchemy

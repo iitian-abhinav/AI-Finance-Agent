@@ -1,6 +1,3 @@
-.env
-.env
-
 # Environment variables
 .env
 .env.*
@@ -22,4 +19,5 @@ __pycache__/
 .DS_Store
 
 # Logs
-*.log
+*.log.env
+.env
